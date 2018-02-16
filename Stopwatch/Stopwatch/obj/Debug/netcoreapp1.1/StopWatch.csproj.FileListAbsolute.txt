@@ -1,0 +1,11 @@
+/Users/SBAdministrator/Projects/Successful Projects/StopWatch/StopWatch/bin/Debug/netcoreapp1.1/StopWatch.deps.json
+/Users/SBAdministrator/Projects/Successful Projects/StopWatch/StopWatch/bin/Debug/netcoreapp1.1/StopWatch.runtimeconfig.json
+/Users/SBAdministrator/Projects/Successful Projects/StopWatch/StopWatch/bin/Debug/netcoreapp1.1/StopWatch.runtimeconfig.dev.json
+/Users/SBAdministrator/Projects/Successful Projects/StopWatch/StopWatch/bin/Debug/netcoreapp1.1/StopWatch.dll
+/Users/SBAdministrator/Projects/Successful Projects/StopWatch/StopWatch/bin/Debug/netcoreapp1.1/StopWatch.pdb
+/Users/SBAdministrator/Projects/Successful Projects/StopWatch/StopWatch/obj/Debug/netcoreapp1.1/StopWatch.csprojResolveAssemblyReference.cache
+/Users/SBAdministrator/Projects/Successful Projects/StopWatch/StopWatch/obj/Debug/netcoreapp1.1/StopWatch.csproj.CoreCompileInputs.cache
+/Users/SBAdministrator/Projects/Successful Projects/StopWatch/StopWatch/obj/Debug/netcoreapp1.1/StopWatch.AssemblyInfoInputs.cache
+/Users/SBAdministrator/Projects/Successful Projects/StopWatch/StopWatch/obj/Debug/netcoreapp1.1/StopWatch.AssemblyInfo.cs
+/Users/SBAdministrator/Projects/Successful Projects/StopWatch/StopWatch/obj/Debug/netcoreapp1.1/StopWatch.dll
+/Users/SBAdministrator/Projects/Successful Projects/StopWatch/StopWatch/obj/Debug/netcoreapp1.1/StopWatch.pdb

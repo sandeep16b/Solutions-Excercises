@@ -1,0 +1,22 @@
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection/DBConnection/bin/Debug/netcoreapp2.0/DBConnection.deps.json
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection/DBConnection/bin/Debug/netcoreapp2.0/DBConnection.runtimeconfig.json
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection/DBConnection/bin/Debug/netcoreapp2.0/DBConnection.runtimeconfig.dev.json
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection/DBConnection/bin/Debug/netcoreapp2.0/DBConnection.dll
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection/DBConnection/bin/Debug/netcoreapp2.0/DBConnection.pdb
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection/DBConnection/obj/Debug/netcoreapp2.0/DBConnection.csprojResolveAssemblyReference.cache
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection/DBConnection/obj/Debug/netcoreapp2.0/DBConnection.csproj.CoreCompileInputs.cache
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection/DBConnection/obj/Debug/netcoreapp2.0/DBConnection.AssemblyInfoInputs.cache
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection/DBConnection/obj/Debug/netcoreapp2.0/DBConnection.AssemblyInfo.cs
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection/DBConnection/obj/Debug/netcoreapp2.0/DBConnection.dll
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection/DBConnection/obj/Debug/netcoreapp2.0/DBConnection.pdb
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection-Excercise 1/DBConnection/bin/Debug/netcoreapp2.0/DBConnection.deps.json
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection-Excercise 1/DBConnection/bin/Debug/netcoreapp2.0/DBConnection.runtimeconfig.json
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection-Excercise 1/DBConnection/bin/Debug/netcoreapp2.0/DBConnection.runtimeconfig.dev.json
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection-Excercise 1/DBConnection/bin/Debug/netcoreapp2.0/DBConnection.dll
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection-Excercise 1/DBConnection/bin/Debug/netcoreapp2.0/DBConnection.pdb
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection-Excercise 1/DBConnection/obj/Debug/netcoreapp2.0/DBConnection.csprojResolveAssemblyReference.cache
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection-Excercise 1/DBConnection/obj/Debug/netcoreapp2.0/DBConnection.csproj.CoreCompileInputs.cache
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection-Excercise 1/DBConnection/obj/Debug/netcoreapp2.0/DBConnection.AssemblyInfoInputs.cache
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection-Excercise 1/DBConnection/obj/Debug/netcoreapp2.0/DBConnection.AssemblyInfo.cs
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection-Excercise 1/DBConnection/obj/Debug/netcoreapp2.0/DBConnection.dll
+/Users/SBAdministrator/Projects/Successful Projects/DBConnection-Excercise 1/DBConnection/obj/Debug/netcoreapp2.0/DBConnection.pdb

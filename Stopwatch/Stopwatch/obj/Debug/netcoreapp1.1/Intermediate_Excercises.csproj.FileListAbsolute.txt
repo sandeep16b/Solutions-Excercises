@@ -1,0 +1,11 @@
+/Users/SBAdministrator/Projects/Successful Projects/StopWatch/StopWatch/obj/Debug/netcoreapp1.1/Intermediate_Excercises.csprojResolveAssemblyReference.cache
+/Users/SBAdministrator/Projects/Successful Projects/StopWatch/StopWatch/obj/Debug/netcoreapp1.1/Intermediate_Excercises.csproj.CoreCompileInputs.cache
+/Users/SBAdministrator/Projects/Successful Projects/StopWatch/StopWatch/obj/Debug/netcoreapp1.1/Intermediate_Excercises.AssemblyInfoInputs.cache
+/Users/SBAdministrator/Projects/Successful Projects/StopWatch/StopWatch/obj/Debug/netcoreapp1.1/Intermediate_Excercises.AssemblyInfo.cs
+/Users/SBAdministrator/Projects/Successful Projects/Stopwatch/StopWatch/bin/Debug/netcoreapp1.1/Intermediate_Excercises.deps.json
+/Users/SBAdministrator/Projects/Successful Projects/Stopwatch/StopWatch/bin/Debug/netcoreapp1.1/Intermediate_Excercises.runtimeconfig.json
+/Users/SBAdministrator/Projects/Successful Projects/Stopwatch/StopWatch/bin/Debug/netcoreapp1.1/Intermediate_Excercises.runtimeconfig.dev.json
+/Users/SBAdministrator/Projects/Successful Projects/Stopwatch/Stopwatch/bin/Debug/netcoreapp1.1/Intermediate_Excercises.dll
+/Users/SBAdministrator/Projects/Successful Projects/Stopwatch/Stopwatch/bin/Debug/netcoreapp1.1/Intermediate_Excercises.pdb
+/Users/SBAdministrator/Projects/Successful Projects/Stopwatch/Stopwatch/obj/Debug/netcoreapp1.1/Intermediate_Excercises.dll
+/Users/SBAdministrator/Projects/Successful Projects/Stopwatch/Stopwatch/obj/Debug/netcoreapp1.1/Intermediate_Excercises.pdb

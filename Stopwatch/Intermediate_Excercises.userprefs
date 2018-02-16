@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{FF6807A0-D8E3-4E3E-A0E8-57FDC4903FCB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Stopwatch/Program.cs">
+    <Files>
+      <File FileName="Stopwatch/Program.cs" Line="29" Column="22" />
+      <File FileName="Stopwatch/Post.cs" Line="24" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Intermediate_Excercises" expanded="True">
+            <Node name="Intermediate_Excercises" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Intermediate__Excercises PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

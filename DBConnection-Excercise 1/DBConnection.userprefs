@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{09BBE4DF-D502-4D0E-A3A7-DF1206DEA05B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DBConnection/Program.cs">
+    <Files>
+      <File FileName="DBConnection/Program.cs" Line="7" Column="18" />
+      <File FileName="DBConnection/DatabaseConn.cs" Line="26" Column="13" />
+      <File FileName="DBConnection/SqlConnection.cs" Line="19" Column="52" />
+      <File FileName="DBConnection/OracleConnection.cs" Line="24" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DBConnection PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,22 @@
+/Users/SBAdministrator/Projects/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.csprojResolveAssemblyReference.cache
+/Users/SBAdministrator/Projects/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.csproj.CoreCompileInputs.cache
+/Users/SBAdministrator/Projects/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.AssemblyInfoInputs.cache
+/Users/SBAdministrator/Projects/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.AssemblyInfo.cs
+/Users/SBAdministrator/Projects/Stack/Stack/bin/Debug/netcoreapp2.0/Stack.deps.json
+/Users/SBAdministrator/Projects/Stack/Stack/bin/Debug/netcoreapp2.0/Stack.runtimeconfig.json
+/Users/SBAdministrator/Projects/Stack/Stack/bin/Debug/netcoreapp2.0/Stack.runtimeconfig.dev.json
+/Users/SBAdministrator/Projects/Stack/Stack/bin/Debug/netcoreapp2.0/Stack.dll
+/Users/SBAdministrator/Projects/Stack/Stack/bin/Debug/netcoreapp2.0/Stack.pdb
+/Users/SBAdministrator/Projects/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.dll
+/Users/SBAdministrator/Projects/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.pdb
+/Users/SBAdministrator/Projects/Successful Projects/Stack/Stack/bin/Debug/netcoreapp2.0/Stack.deps.json
+/Users/SBAdministrator/Projects/Successful Projects/Stack/Stack/bin/Debug/netcoreapp2.0/Stack.runtimeconfig.json
+/Users/SBAdministrator/Projects/Successful Projects/Stack/Stack/bin/Debug/netcoreapp2.0/Stack.runtimeconfig.dev.json
+/Users/SBAdministrator/Projects/Successful Projects/Stack/Stack/bin/Debug/netcoreapp2.0/Stack.dll
+/Users/SBAdministrator/Projects/Successful Projects/Stack/Stack/bin/Debug/netcoreapp2.0/Stack.pdb
+/Users/SBAdministrator/Projects/Successful Projects/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.csprojResolveAssemblyReference.cache
+/Users/SBAdministrator/Projects/Successful Projects/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.csproj.CoreCompileInputs.cache
+/Users/SBAdministrator/Projects/Successful Projects/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.AssemblyInfoInputs.cache
+/Users/SBAdministrator/Projects/Successful Projects/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.AssemblyInfo.cs
+/Users/SBAdministrator/Projects/Successful Projects/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.dll
+/Users/SBAdministrator/Projects/Successful Projects/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.pdb
